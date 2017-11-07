@@ -18,4 +18,9 @@ class Shoe
     BRANDS << brand
   end
 
+  def size=(size)
+    @size = size 
+    BRANDS << size
+  end
+
 end
