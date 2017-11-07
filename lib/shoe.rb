@@ -9,7 +9,7 @@ class Shoe
     if self.brand != self.brand
     BRANDS << brand
   end
-   
+
   end
 
   def cobble
